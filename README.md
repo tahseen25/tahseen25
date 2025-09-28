@@ -40,6 +40,9 @@ AI-powered food lens agent designed to analyze, identify, and provide insights o
 ### 🔹 [GitHub Timeline Email Notifier](#)  
 - PHP + CRON job project that fetches GitHub public events and emails updates to subscribers.  
 
+### 🔹 [Digital Time Capsule](#)  
+- LAMP stack based projects.Allows users to send mails to future. 
+
 ### 🔹 [Image Generation with Stable Diffusion & ComfyUI](https://github.com/tahseen25/Image-generation)  
 - AI-powered image generation project using U-Net and CLIP models.  
 - Published [Medium article](#) explaining U-Net and diffusion models.  
