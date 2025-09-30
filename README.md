@@ -22,7 +22,8 @@ AI-powered food lens agent designed to analyze, identify, and provide insights o
 
 ### 🔹 [Secure Notes & Diary Web App](https://github.com/tahseen25/Notes-Dairy)  
 - MERN stack app with biometric authentication using TypingDNA.  
-- Features JWT-based authentication, MongoDB storage, and UI security enhancements.  
+- Features JWT-based authentication, MongoDB storage, and UI security enhancements.
+-  All diary and note content is encrypted in MongoDB, ensuring your data remains private and secure. 
 
 ### 🔹 [Bookstore Management System](#)  
 - Spring Boot + Thymeleaf + MySQL.  
